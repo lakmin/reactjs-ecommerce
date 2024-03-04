@@ -1,6 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+##![1](https://github.com/lakmin/reactjs-ecommerce/assets/20315487/21fb0fd5-63e3-4c38-a444-1f1fcec307b5)![2](https://github.com/lakmin/reactjs-ecommerce/assets/20315487/88b6ded2-0a43-4431-b9b6-72e32c616d03)
+
+ Getting Started
 
 First, run the development server:
 
